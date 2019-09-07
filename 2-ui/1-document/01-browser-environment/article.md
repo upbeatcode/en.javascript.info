@@ -83,7 +83,7 @@ if (confirm("Go to Wikipedia?")) {
 }
 ```
 
-Functions `alert/confirm/prompt` are also a part of BOM: they are directly not related to the document, but represent pure browser methods of communicating with the user.
+Functions `alert/confirm/prompt` are also a part of BOM: they are not directly related to the document, but represent pure browser methods of communicating with the user.
 
 BOM is the part of the general [HTML specification](https://html.spec.whatwg.org).
 

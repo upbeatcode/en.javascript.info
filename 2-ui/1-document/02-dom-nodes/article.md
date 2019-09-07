@@ -10,7 +10,7 @@ The backbone of an HTML document are tags.
 
 According to Document Object Model (DOM), every HTML-tag is an object. Nested tags are called "children" of the enclosing one.
 
-The text inside a tag it is an object as well.
+The text inside a tag is an object as well.
 
 All these objects are accessible using JavaScript.
 
